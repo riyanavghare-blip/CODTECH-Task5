@@ -1,1 +1,7 @@
 # CODTECH-Task5
+NAME- Riya Navghare
+ID- CT06DR695
+COMPANY-CODTECH IT SOLUTION
+DOMAIN- Artificial Intelligence
+DURATION- OCT TO DEC
+MENTOR- Neela Santhu
